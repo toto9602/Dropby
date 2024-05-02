@@ -6,3 +6,9 @@
 - DB : MySQL, Sequelize
 - Server : Express & Javascript
 - Infrastructure : Docker & Docker-compose 
+
+### Package Manager
+> npm
+
+### Running(Local)
+> nodemon app.js
